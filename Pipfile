@@ -7,12 +7,14 @@ name = "pypi"
 flask = "*"
 tweepy = "*"
 pylint = "*"
-black = "*"
 isort = "*"
-langchain-openai = "*"
-langchain-community = "*"
 langchain = "*"
 langchain-ollama = "*"
+langchain-openai = "*"
+langchain-community = "*"
+langchain-core = "*"
+langchainhub = "*"
+black = "*"
 
 [dev-packages]
 
