@@ -10,11 +10,11 @@ pylint = "*"
 isort = "*"
 langchain = "*"
 langchain-openai = "*"
-langchain-community = "*"
 langchain-core = "*"
 langchainhub = "*"
 black = "*"
 langchain-ollama = "*"
+langchain-community = "*"
 
 [dev-packages]
 
